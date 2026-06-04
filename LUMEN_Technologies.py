@@ -1,4 +1,4 @@
-# Write a lambda expression with example:
+ # Write a lambda expression with example:
 mul = lambda a, b: a * b
 print(mul(5, 2))
 
